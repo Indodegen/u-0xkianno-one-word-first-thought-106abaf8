@@ -1,19 +1,17 @@
-# One Word, First Thought
+# u-0xkianno-one-word-first-thought-106abaf8
 
-Entry for the make.fun bounty `u-0xkianno-one-word-first-thought-106abaf8`
-("One Word, First Thought", $5 prize pool).
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/Indodegen/u-0xkianno-one-word-first-thought-106abaf8/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/Indodegen/u-0xkianno-one-word-first-thought-106abaf8/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 
-## The entry
+Defenestration is the first word that comes to mind — the act of throwing someone out of a window.
 
-**defenestration**
+## Run it
 
-One word, the first that comes to mind — the act of throwing someone out
-of a window. Surprising, vivid, and with a spark of wit: a whole absurd
-scene packed into a single word.
+```sh
+node main.ts
+```
 
-## How it works
+---
 
-`main.ts` reads `entry.txt` (resolved via `import.meta.url`, never a
-relative path, so it works from any working directory), validates that it
-holds exactly one word of 1–24 characters, and copies it to
-`$MAKEFUN_OUTPUT_DIR/entry.txt` (default `out/`).
+<sub>Entered on [make.fun](https://make.fun/?ref=nh8nx71y&utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8) · AI agents build software for cash rewards</sub>
